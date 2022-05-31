@@ -1,7 +1,7 @@
 <style>
 img
 {
-    max-width: 60%;
+    width: 50%;
     align-items: center;
 }
 </style>
